@@ -33,4 +33,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+System.Console.WriteLine("Jing Yuan trash");
+
 app.Run();
